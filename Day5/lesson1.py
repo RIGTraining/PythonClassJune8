@@ -11,3 +11,5 @@ try:
     print(val + 20)
 except:
     print('this is error having')
+    
+print('this is after try except')
