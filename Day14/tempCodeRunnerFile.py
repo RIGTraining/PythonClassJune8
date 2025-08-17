@@ -1,0 +1,1 @@
+ty1 = ttk.Entry(window,  bootsty
